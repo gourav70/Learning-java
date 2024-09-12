@@ -3,7 +3,7 @@ package Genrics;
 
 //Java code to demonstrate working of
 //generic function
-import java.util.*; 
+ 
 
 class _1_genrics
 { 
