@@ -1,8 +1,7 @@
 package Genrics;
 
 
-//Java code to demonstrate working of
-//generic function
+
  
 
 class _1_genrics

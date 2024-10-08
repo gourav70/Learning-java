@@ -34,10 +34,7 @@ package Genrics;
 
 	public class _2_genrics {
 	
-	    // Wildcard to specify any ArrayList
-	    // of class Student or its descendant can 
-	    // be passed into this
-	    // general purpose function
+	    /
 	    static void printStudents(
 	        ArrayList<? extends Student> al)
 	    {
